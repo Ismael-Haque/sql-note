@@ -9,3 +9,4 @@ SELECT * FROM my_contacts;
 SHOW tables;
 
 DESC doughnut_list;
+SELECT * FROM doughnut_list;
