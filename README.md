@@ -1,0 +1,2 @@
+# sql-note
+SQL topics 
